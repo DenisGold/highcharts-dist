@@ -1,13 +1,13 @@
 {
-  "name": "highcharts",
+  "name": "pan_zagloba",
   "description": "JavaScript charting framework",
-  "homepage": "http://www.highcharts.com",
-  "version": "6.1.2",
-  "author": "Highsoft AS <support@highcharts.com> (http://www.highcharts.com/about)",
+  "homepage": "http://www.admin.indeema.com",
+  "version": "6.1.3",
+  "author": "Indeema",
   "main": "highcharts.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/highcharts/highcharts-dist"
+    "url": "https://github.com/rpavliv37/highcharts-dist"
   },
   "keywords": [
     "charts",
@@ -18,6 +18,6 @@
     "browserify",
     "webpack"
   ],
-  "bugs": "https://github.com/highcharts/highcharts/issues",
-  "license": "https://www.highcharts.com/license"
+  "bugs": "https://admin.indeema.com",
+  "license": "Admin.indeema.com"
 }
