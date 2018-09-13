@@ -1,8 +1,8 @@
 {
-  "name": "pan_zagloba",
+  "name": "pan_zagloba_react",
   "description": "JavaScript charting framework",
   "homepage": "http://www.admin.indeema.com",
-  "version": "6.1.4",
+  "version": "6.1.6",
   "author": "Indeema",
   "main": "highcharts.js",
   "repository": {
