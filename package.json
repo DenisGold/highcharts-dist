@@ -1,5 +1,5 @@
 {
-  "name": "pan_zagloba",
+  "name": "pan_zagloba_react",
   "description": "JavaScript charting framework",
   "homepage": "http://www.admin.indeema.com",
   "version": "6.1.5",
@@ -7,7 +7,7 @@
   "main": "highcharts.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rpavliv37/highcharts-dist"
+    "url": "https://github.com/rpavliv37/react-jsx-highcharts"
   },
   "keywords": [
     "charts",
