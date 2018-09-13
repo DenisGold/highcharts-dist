@@ -7,7 +7,7 @@
   "main": "highcharts.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rpavliv37/highcharts-dist"
+    "url": "https://github.com/rpavliv37/react-jsx-highcharts"
   },
   "keywords": [
     "charts",
