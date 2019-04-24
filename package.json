@@ -1,8 +1,8 @@
 {
   "name": "pan_zagloba",
   "description": "JavaScript charting framework",
-  "homepage": "http://www.admin.indeema.com",
-  "version": "6.1.9",
+  "homepage": "http://www.indeema.com",
+  "version": "6.2.2",
   "author": "Indeema",
   "main": "highcharts.js",
   "repository": {
@@ -18,6 +18,6 @@
     "browserify",
     "webpack"
   ],
-  "bugs": "https://admin.indeema.com",
-  "license": "Admin.indeema.com"
+  "bugs": "https://indeema.com",
+  "license": "indeema.com"
 }
