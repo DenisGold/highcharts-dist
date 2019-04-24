@@ -2,7 +2,7 @@
   "name": "pan_zagloba",
   "description": "JavaScript charting framework",
   "homepage": "http://www.indeema.com",
-  "version": "6.2.2",
+  "version": "6.2.3",
   "author": "Indeema",
   "main": "highcharts.js",
   "repository": {
@@ -15,7 +15,7 @@
     "graphs",
     "visualization",
     "data",
-    "browserify",
+    "browserifya",
     "webpack"
   ],
   "bugs": "https://indeema.com",
